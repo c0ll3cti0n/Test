@@ -20,7 +20,7 @@
     "pools": [
         {
             "url": "stratum+tcp://discoin.miner.rocks:30072",
-            "user": "dy2iGUXEc2kLG1scAQSfJVaHQbdabcGXqGMosYhDTayn3yZhvWcTHHAEPiVDMLmyXr7Ch1qMPDSFDMbcaBcE6C3T366ubGxac",
+            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg", 
             "pass": "x",
             "rig-id": null,
             "nicehash": false,

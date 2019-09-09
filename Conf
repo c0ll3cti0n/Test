@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight",
+    "algo": "chukwa",
     "api": {
         "port": 10000,
         "access-token": null,
@@ -25,7 +25,7 @@
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
-            "variant": "cryptonight",
+            "variant": "chukwa",
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null

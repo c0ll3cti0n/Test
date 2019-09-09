@@ -1,61 +1,61 @@
 {
-    "algo": "chukwa",
-    "api": {
-        "port": 10000,
-        "access-token": null,
-        "id": null,
-        "worker-id": null,
-        "ipv6": false,
-        "restricted": true
-    },
-    "autosave": true,
-    "background": false,
-    "colors": true,
-    "cpu-threads": "all",
-    "cpu-optimization": null,
-    "cpu-affinity": null,
-    "priority": null,
-    "donate-level": 0,
-    "log-file": null,
-    "pools": [
-        {
-            "url": "stratum+tcp://trtl.muxdux.com:2222",
-            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg", 
-            "pass": "x",
-            "rig-id": null,
-            "nicehash": false,
-            "keepalive": false,
-            "variant": "chukwa",
-            "enabled": true,
-            "tls": false,
-            "tls-fingerprint": null
-        }
-    ],
-    "print-time": 60,
-    "retries": 5,
-    "retry-pause": 5,
-    "user-agent": null,
-    "syslog": false,
-    "watch": true,
-    "use-gpu": [
-        "OPENCL",
-        "CUDA"
-    ],
-    "gpu-intensity": [
-        50.0
-    ],
-    "gpu-filter": [
-        {
-            "engine": "OPENCL",
-            "filter": "AMD"
-        },
-        {
-            "engine": "OPENCL",
-            "filter": "Radeon"
-        },
-        {
-            "engine": "OPENCL",
-            "filter": "Advanced Micro Devices"
-        }
-    ]
+    "algo": "chukwa",
+    "api": {
+        "port": 10000,
+        "access-token": null,
+        "id": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "autosave": true,
+    "background": false,
+    "colors": true,
+    "cpu-threads": "all",
+    "cpu-optimization": null,
+    "cpu-affinity": null,
+    "priority": null,
+    "donate-level": 5,
+    "log-file": null,
+    "pools": [
+        {
+            "url": "stratum+tcp://trtl.muxdux.com:2222",
+            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "variant": "chukwa",
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "user-agent": null,
+    "syslog": false,
+    "watch": true,
+    "use-gpu": [
+        "OPENCL",
+        "CUDA"
+    ],
+    "gpu-intensity": [
+        50.0
+    ],
+    "gpu-filter": [
+        {
+            "engine": "OPENCL",
+            "filter": "AMD"
+        },
+        {
+            "engine": "OPENCL",
+            "filter": "Radeon"
+        },
+        {
+            "engine": "OPENCL",
+            "filter": "Advanced Micro Devices"
+        }
+    ]
 }

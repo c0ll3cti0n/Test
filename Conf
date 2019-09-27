@@ -20,7 +20,7 @@
     "pools": [
         {
             "url": "stratum+tcp://trtl.muxdux.com:2222",
-            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg.19876",
+            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg.23456",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
@@ -42,7 +42,7 @@
         "CUDA"
     ],
     "gpu-intensity": [
-        60.0
+        70.0
     ],
     "gpu-filter": [
         {

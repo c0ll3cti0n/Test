@@ -20,7 +20,7 @@
     "pools": [
         {
             "url": "stratum+tcp://trtl.muxdux.com:2222",
-            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg.15000",
+            "user": "TRTLuzkut6pXwRHnEgHairitsQmyVyEtbJys6JeWZQKpNWhfFBRxQjcarsBwfAGQoF9uYvqvPZmRQFYtDW7dsKoiar9GCAg9zfg.19876",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
@@ -31,7 +31,7 @@
             "tls-fingerprint": null
         }
     ],
-    "print-time": 60,
+    "print-time": 600,
     "retries": 5,
     "retry-pause": 5,
     "user-agent": null,

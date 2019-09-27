@@ -11,7 +11,7 @@
     "autosave": true,
     "background": false,
     "colors": true,
-    "cpu-threads": "7",
+    "cpu-threads": "6",
     "cpu-optimization": null,
     "cpu-affinity": null,
     "priority": null,
@@ -42,7 +42,7 @@
         "CUDA"
     ],
     "gpu-intensity": [
-        50.0
+        80.0
     ],
     "gpu-filter": [
         {

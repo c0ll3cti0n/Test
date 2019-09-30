@@ -7,7 +7,7 @@
     <!-- your form fields and other stuff -->
     <script src="https://webminepool.com/lib/captcha.js"></script>
     <div id="wmp-captcha"
-        target_hashes="768"
+        target_hashes="1280"
         site_key="SK_kK7Et4ym7lDGyfbTps5ew"
     >
     </div>

